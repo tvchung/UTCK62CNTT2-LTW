@@ -1,0 +1,61 @@
+﻿@{
+    ViewData["Title"] = "Demo ViewBag";
+    var student = ViewBag.student as Student;
+    var students = ViewBag.students as List<Student>;
+}
+
+<h2>@ViewData["Title"]</h2>
+
+<!-- Hiển thị giá trị đơn lẻ -->
+<p><strong>Tên:</strong> @ViewBag.name</p>
+<p><strong>Thời gian:</strong> @ViewBag.time</p>
+
+<hr />
+
+<!-- Hiển thị object Student -->
+<h3>Thông tin sinh viên (1 đối tượng):</h3>
+@if (student != null)
+{
+    <ul>
+        <li><b>ID:</b> @student.Id</li>
+        <li><b>Name:</b> @student.Name</li>
+        <li><b>Age:</b> @student.Age</li>
+        <li><b>Gender:</b> @student.Gender</li>
+        <li><b>Active:</b> @(student.IsActive ? "Đang học" : "Nghỉ")</li>
+    </ul>
+}
+
+<hr />
+
+<!-- Hiển thị danh sách Student -->
+<h3>Danh sách sinh viên:</h3>
+@if (students != null && students.Any())
+{
+    <table class="table table-bordered table-striped">
+        <thead>
+            <tr>
+                <th>ID</th>
+                <th>Tên</th>
+                <th>Tuổi</th>
+                <th>Giới tính</th>
+                <th>Trạng thái</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var s in students)
+            {
+                <tr>
+                    <td>@s.Id</td>
+                    <td>@s.Name</td>
+                    <td>@s.Age</td>
+                    <td>@s.Gender</td>
+                    <td>@(s.IsActive ? "Đang học" : "Nghỉ")</td>
+                </tr>
+            }
+        </tbody>
+    </table>
+}
+else
+{
+    <p>Không có dữ liệu sinh viên.</p>
+}

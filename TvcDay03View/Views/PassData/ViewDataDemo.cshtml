@@ -1,0 +1,74 @@
+﻿
+@{
+    ViewData["Title"] = "ViewDataDemo";
+    var student = ViewData["student"] as TvcDay03View.Models.Student;
+    var students = ViewData["students"] as List<TvcDay03View.Models.Student>;
+}
+
+<h1>ViewData Demo</h1>
+<hr/>
+<h2> Welcome to, @ViewData["name"]</h2>
+<p>Time: @ViewData["time"] </p>
+<hr/>
+<div class="alert alert-info">
+    <h2>Thông tin sinh viên</h2>
+    <p>Mã: @student.Id</p>
+    <p>Tên: @student.Name</p>
+    <p>Tuổi: @student.Age</p>
+    <p>Giới tính: @student.Gender</p>
+    <p>
+        @if (student.IsActive == true)
+        {
+            <text>Đang học</text>
+        }
+        else
+        {
+            <text>Đã nghỉ</text>
+        }
+    </p>
+
+</div>
+
+<hr/>
+<div class="border">
+    <h2 class="text-center"> DANH SÁCH SINH VIÊN</h2>
+    <table class="table table-bordered">
+        <thead>
+            <tr>
+                <th>ID</th>
+                <th>Name</th>
+                <th>Age</th>
+                <th>Gender</th>
+                <th>Active</th>
+                <th>Actions</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in students)
+            {
+                <tr>
+                    <td>@item.Id</td>
+                    <td>@item.Name</td>
+                    <td>@item.Age</td>
+                    <td>@item.Gender</td>
+                    <td>
+                        @if(item.IsActive == true)
+                        {
+                            <span class="text-success">Đang học</span>
+                        }
+                        else
+                        {
+                            <span class="text-danger">Đã nghỉ</span>
+                        }
+                    </td>
+                    <td class="text-center">
+                        <a href="#">Xem</a>
+                        <a href="#">Sửa</a>
+                        <a href="#">Xóa</a>
+                    </td>
+                </tr>
+            }
+        </tbody>
+
+    </table>
+</div>
