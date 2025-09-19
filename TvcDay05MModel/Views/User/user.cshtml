@@ -1,0 +1,13 @@
+﻿
+@{
+    ViewData["Title"] = "Thông tin sinh viên";
+    var user = @ViewBag.user as TvcDay05MModel.Models.User;
+}
+
+<h1>@ViewData["Title"]</h1>
+<hr/>
+<p>Id: @ViewBag.user.Id </p>
+<p>Name: @user.Name </p>
+<p>Add: @user.Address </p>
+<p>Age: @user.Email </p>
+
