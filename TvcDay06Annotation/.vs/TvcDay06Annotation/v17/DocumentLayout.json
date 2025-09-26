@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\devmaster.edu.vn\\UTCK64CNTT-LTW\\UTCK62CNTT2-LTW\\TvcDay06Annotation\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5A722170-96DD-48CC-B9F9-247B4CF85074}|TvcDay06Annotation.csproj|c:\\devmaster.edu.vn\\utck64cntt-ltw\\utck62cntt2-ltw\\tvcday06annotation\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A722170-96DD-48CC-B9F9-247B4CF85074}|TvcDay06Annotation.csproj|solutionrelative:models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A722170-96DD-48CC-B9F9-247B4CF85074}|TvcDay06Annotation.csproj|c:\\devmaster.edu.vn\\utck64cntt-ltw\\utck62cntt2-ltw\\tvcday06annotation\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A722170-96DD-48CC-B9F9-247B4CF85074}|TvcDay06Annotation.csproj|solutionrelative:controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A722170-96DD-48CC-B9F9-247B4CF85074}|TvcDay06Annotation.csproj|c:\\devmaster.edu.vn\\utck64cntt-ltw\\utck62cntt2-ltw\\tvcday06annotation\\views\\users\\userannotation.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5A722170-96DD-48CC-B9F9-247B4CF85074}|TvcDay06Annotation.csproj|solutionrelative:views\\users\\userannotation.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A722170-96DD-48CC-B9F9-247B4CF85074}|TvcDay06Annotation.csproj|c:\\devmaster.edu.vn\\utck64cntt-ltw\\utck62cntt2-ltw\\tvcday06annotation\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5A722170-96DD-48CC-B9F9-247B4CF85074}|TvcDay06Annotation.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A722170-96DD-48CC-B9F9-247B4CF85074}|TvcDay06Annotation.csproj|c:\\devmaster.edu.vn\\utck64cntt-ltw\\utck62cntt2-ltw\\tvcday06annotation\\views\\users\\usermanual.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5A722170-96DD-48CC-B9F9-247B4CF85074}|TvcDay06Annotation.csproj|solutionrelative:views\\users\\usermanual.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A722170-96DD-48CC-B9F9-247B4CF85074}|TvcDay06Annotation.csproj|c:\\devmaster.edu.vn\\utck64cntt-ltw\\utck62cntt2-ltw\\tvcday06annotation\\models\\member.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A722170-96DD-48CC-B9F9-247B4CF85074}|TvcDay06Annotation.csproj|solutionrelative:models\\member.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UserAnnotation.cshtml",
+              "DocumentMoniker": "C:\\devmaster.edu.vn\\UTCK64CNTT-LTW\\UTCK62CNTT2-LTW\\TvcDay06Annotation\\Views\\Users\\UserAnnotation.cshtml",
+              "RelativeDocumentMoniker": "Views\\Users\\UserAnnotation.cshtml",
+              "ToolTip": "C:\\devmaster.edu.vn\\UTCK64CNTT-LTW\\UTCK62CNTT2-LTW\\TvcDay06Annotation\\Views\\Users\\UserAnnotation.cshtml",
+              "RelativeToolTip": "Views\\Users\\UserAnnotation.cshtml",
+              "ViewState": "AQIAAAwAAAAAAAAAAADwvwAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-26T03:41:44.98Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\devmaster.edu.vn\\UTCK64CNTT-LTW\\UTCK62CNTT2-LTW\\TvcDay06Annotation\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\devmaster.edu.vn\\UTCK64CNTT-LTW\\UTCK62CNTT2-LTW\\TvcDay06Annotation\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAABsAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-26T03:17:03.113Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UserManual.cshtml",
+              "DocumentMoniker": "C:\\devmaster.edu.vn\\UTCK64CNTT-LTW\\UTCK62CNTT2-LTW\\TvcDay06Annotation\\Views\\Users\\UserManual.cshtml",
+              "RelativeDocumentMoniker": "Views\\Users\\UserManual.cshtml",
+              "ToolTip": "C:\\devmaster.edu.vn\\UTCK64CNTT-LTW\\UTCK62CNTT2-LTW\\TvcDay06Annotation\\Views\\Users\\UserManual.cshtml",
+              "RelativeToolTip": "Views\\Users\\UserManual.cshtml",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABYAAABCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-26T03:16:32.742Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "C:\\devmaster.edu.vn\\UTCK64CNTT-LTW\\UTCK62CNTT2-LTW\\TvcDay06Annotation\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "Controllers\\UsersController.cs",
+              "ToolTip": "C:\\devmaster.edu.vn\\UTCK64CNTT-LTW\\UTCK62CNTT2-LTW\\TvcDay06Annotation\\Controllers\\UsersController.cs",
+              "RelativeToolTip": "Controllers\\UsersController.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAACkAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-26T03:14:56.725Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\devmaster.edu.vn\\UTCK64CNTT-LTW\\UTCK62CNTT2-LTW\\TvcDay06Annotation\\Models\\User.cs",
+              "RelativeDocumentMoniker": "Models\\User.cs",
+              "ToolTip": "C:\\devmaster.edu.vn\\UTCK64CNTT-LTW\\UTCK62CNTT2-LTW\\TvcDay06Annotation\\Models\\User.cs",
+              "RelativeToolTip": "Models\\User.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAADwvxUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-26T03:10:46.814Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Member.cs",
+              "DocumentMoniker": "C:\\devmaster.edu.vn\\UTCK64CNTT-LTW\\UTCK62CNTT2-LTW\\TvcDay06Annotation\\Models\\Member.cs",
+              "RelativeDocumentMoniker": "Models\\Member.cs",
+              "ToolTip": "C:\\devmaster.edu.vn\\UTCK64CNTT-LTW\\UTCK62CNTT2-LTW\\TvcDay06Annotation\\Models\\Member.cs",
+              "RelativeToolTip": "Models\\Member.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwQAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-26T03:10:33.355Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
