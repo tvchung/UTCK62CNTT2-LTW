@@ -1,0 +1,61 @@
+﻿@model TvcDay09LabCF.Models.TvcLoai_San_Pham
+@{
+    ViewData["Title"] = "Thông tin chi tiết loại sản phẩm";
+}
+
+<h1 class="mb-4 text-primary fw-bold text-uppercase">
+    <i class="fa-solid fa-circle-info me-2"></i> @ViewData["Title"]
+</h1>
+
+<div class="row justify-content-center">
+    <div class="col-md-6">
+        <div class="card shadow-lg border-0">
+            <div class="card-header bg-info text-white fw-semibold">
+                <i class="fa-solid fa-info-circle me-2"></i> Chi tiết loại sản phẩm
+            </div>
+            <div class="card-body">
+                <dl class="row mb-0">
+                    <dt class="col-sm-4 text-end text-secondary fw-semibold">
+                        @Html.DisplayNameFor(model => model.tvcMaLoai)
+                    </dt>
+                    <dd class="col-sm-8">
+                        <span class="fw-bold text-dark">@Html.DisplayFor(model => model.tvcMaLoai)</span>
+                    </dd>
+
+                    <dt class="col-sm-4 text-end text-secondary fw-semibold">
+                        @Html.DisplayNameFor(model => model.tvcTenLoai)
+                    </dt>
+                    <dd class="col-sm-8">
+                        <span class="fw-bold text-dark">@Html.DisplayFor(model => model.tvcTenLoai)</span>
+                    </dd>
+
+                    <dt class="col-sm-4 text-end text-secondary fw-semibold">
+                        @Html.DisplayNameFor(model => model.tvcTrangThai)
+                    </dt>
+                    <dd class="col-sm-8">
+                        @if (Model.tvcTrangThai)
+                        {
+                            <span class="badge bg-success px-3 py-2">
+                                <i class="fa-solid fa-check-circle me-1"></i> Hoạt động
+                            </span>
+                        }
+                        else
+                        {
+                            <span class="badge bg-danger px-3 py-2">
+                                <i class="fa-solid fa-xmark-circle me-1"></i> Ngừng hoạt động
+                            </span>
+                        }
+                    </dd>
+                </dl>
+            </div>
+            <div class="card-footer bg-light d-flex justify-content-between">
+                <a asp-action="tvcIndex" class="btn btn-secondary">
+                    <i class="fa-solid fa-arrow-left me-1"></i> Quay lại
+                </a>
+                <a asp-action="tvcEdit" asp-route-tvcId="@Model?.tvcId" class="btn btn-primary">
+                    <i class="fa-solid fa-pen-to-square me-1"></i> Chỉnh sửa
+                </a>
+            </div>
+        </div>
+    </div>
+</div>

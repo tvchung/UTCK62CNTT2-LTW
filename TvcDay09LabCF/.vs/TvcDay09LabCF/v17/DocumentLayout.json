@@ -1,0 +1,258 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\devmaster.edu.vn\\UTCK64CNTT-LTW\\UTCK62CNTT2-LTW\\TvcDay09LabCF\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7B856AE3-EBCD-4EA2-980B-C19EEA1EF2DB}|TvcDay09LabCF.csproj|c:\\devmaster.edu.vn\\utck64cntt-ltw\\utck62cntt2-ltw\\tvcday09labcf\\views\\tvcloai_san_pham\\tvcindex.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7B856AE3-EBCD-4EA2-980B-C19EEA1EF2DB}|TvcDay09LabCF.csproj|solutionrelative:views\\tvcloai_san_pham\\tvcindex.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B856AE3-EBCD-4EA2-980B-C19EEA1EF2DB}|TvcDay09LabCF.csproj|c:\\devmaster.edu.vn\\utck64cntt-ltw\\utck62cntt2-ltw\\tvcday09labcf\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{7B856AE3-EBCD-4EA2-980B-C19EEA1EF2DB}|TvcDay09LabCF.csproj|solutionrelative:wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B856AE3-EBCD-4EA2-980B-C19EEA1EF2DB}|TvcDay09LabCF.csproj|c:\\devmaster.edu.vn\\utck64cntt-ltw\\utck62cntt2-ltw\\tvcday09labcf\\views\\tvcloai_san_pham\\tvcdelete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7B856AE3-EBCD-4EA2-980B-C19EEA1EF2DB}|TvcDay09LabCF.csproj|solutionrelative:views\\tvcloai_san_pham\\tvcdelete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B856AE3-EBCD-4EA2-980B-C19EEA1EF2DB}|TvcDay09LabCF.csproj|c:\\devmaster.edu.vn\\utck64cntt-ltw\\utck62cntt2-ltw\\tvcday09labcf\\views\\tvcloai_san_pham\\tvcdetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7B856AE3-EBCD-4EA2-980B-C19EEA1EF2DB}|TvcDay09LabCF.csproj|solutionrelative:views\\tvcloai_san_pham\\tvcdetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B856AE3-EBCD-4EA2-980B-C19EEA1EF2DB}|TvcDay09LabCF.csproj|c:\\devmaster.edu.vn\\utck64cntt-ltw\\utck62cntt2-ltw\\tvcday09labcf\\views\\tvcloai_san_pham\\tvcedit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7B856AE3-EBCD-4EA2-980B-C19EEA1EF2DB}|TvcDay09LabCF.csproj|solutionrelative:views\\tvcloai_san_pham\\tvcedit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B856AE3-EBCD-4EA2-980B-C19EEA1EF2DB}|TvcDay09LabCF.csproj|c:\\devmaster.edu.vn\\utck64cntt-ltw\\utck62cntt2-ltw\\tvcday09labcf\\views\\tvcloai_san_pham\\tvccreate.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7B856AE3-EBCD-4EA2-980B-C19EEA1EF2DB}|TvcDay09LabCF.csproj|solutionrelative:views\\tvcloai_san_pham\\tvccreate.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B856AE3-EBCD-4EA2-980B-C19EEA1EF2DB}|TvcDay09LabCF.csproj|c:\\devmaster.edu.vn\\utck64cntt-ltw\\utck62cntt2-ltw\\tvcday09labcf\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7B856AE3-EBCD-4EA2-980B-C19EEA1EF2DB}|TvcDay09LabCF.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B856AE3-EBCD-4EA2-980B-C19EEA1EF2DB}|TvcDay09LabCF.csproj|c:\\devmaster.edu.vn\\utck64cntt-ltw\\utck62cntt2-ltw\\tvcday09labcf\\controllers\\tvcloai_san_phamcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B856AE3-EBCD-4EA2-980B-C19EEA1EF2DB}|TvcDay09LabCF.csproj|solutionrelative:controllers\\tvcloai_san_phamcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B856AE3-EBCD-4EA2-980B-C19EEA1EF2DB}|TvcDay09LabCF.csproj|c:\\devmaster.edu.vn\\utck64cntt-ltw\\utck62cntt2-ltw\\tvcday09labcf\\models\\tvcloai_san_pham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B856AE3-EBCD-4EA2-980B-C19EEA1EF2DB}|TvcDay09LabCF.csproj|solutionrelative:models\\tvcloai_san_pham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B856AE3-EBCD-4EA2-980B-C19EEA1EF2DB}|TvcDay09LabCF.csproj|c:\\devmaster.edu.vn\\utck64cntt-ltw\\utck62cntt2-ltw\\tvcday09labcf\\models\\tvcsan_pham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B856AE3-EBCD-4EA2-980B-C19EEA1EF2DB}|TvcDay09LabCF.csproj|solutionrelative:models\\tvcsan_pham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B856AE3-EBCD-4EA2-980B-C19EEA1EF2DB}|TvcDay09LabCF.csproj|c:\\devmaster.edu.vn\\utck64cntt-ltw\\utck62cntt2-ltw\\tvcday09labcf\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B856AE3-EBCD-4EA2-980B-C19EEA1EF2DB}|TvcDay09LabCF.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B856AE3-EBCD-4EA2-980B-C19EEA1EF2DB}|TvcDay09LabCF.csproj|c:\\devmaster.edu.vn\\utck64cntt-ltw\\utck62cntt2-ltw\\tvcday09labcf\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{7B856AE3-EBCD-4EA2-980B-C19EEA1EF2DB}|TvcDay09LabCF.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\devmaster.edu.vn\\UTCK64CNTT-LTW\\UTCK62CNTT2-LTW\\TvcDay09LabCF\\Migrations\\20251017034326_V1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20251017034326_V1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B856AE3-EBCD-4EA2-980B-C19EEA1EF2DB}|TvcDay09LabCF.csproj|c:\\devmaster.edu.vn\\utck64cntt-ltw\\utck62cntt2-ltw\\tvcday09labcf\\models\\tvcday09labcfcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B856AE3-EBCD-4EA2-980B-C19EEA1EF2DB}|TvcDay09LabCF.csproj|solutionrelative:models\\tvcday09labcfcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\devmaster.edu.vn\\UTCK64CNTT-LTW\\UTCK62CNTT2-LTW\\TvcDay09LabCF\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "wwwroot\\css\\site.css",
+              "ToolTip": "C:\\devmaster.edu.vn\\UTCK64CNTT-LTW\\UTCK62CNTT2-LTW\\TvcDay09LabCF\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "wwwroot\\css\\site.css",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAmwC4AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-10-17T04:23:03.088Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "tvcDelete.cshtml",
+              "DocumentMoniker": "C:\\devmaster.edu.vn\\UTCK64CNTT-LTW\\UTCK62CNTT2-LTW\\TvcDay09LabCF\\Views\\TvcLoai_San_Pham\\tvcDelete.cshtml",
+              "RelativeDocumentMoniker": "Views\\TvcLoai_San_Pham\\tvcDelete.cshtml",
+              "ToolTip": "C:\\devmaster.edu.vn\\UTCK64CNTT-LTW\\UTCK62CNTT2-LTW\\TvcDay09LabCF\\Views\\TvcLoai_San_Pham\\tvcDelete.cshtml",
+              "RelativeToolTip": "Views\\TvcLoai_San_Pham\\tvcDelete.cshtml",
+              "ViewState": "AQIAACYAAAAAAAAAAAAowEsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-17T04:20:43.73Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "tvcDetails.cshtml",
+              "DocumentMoniker": "C:\\devmaster.edu.vn\\UTCK64CNTT-LTW\\UTCK62CNTT2-LTW\\TvcDay09LabCF\\Views\\TvcLoai_San_Pham\\tvcDetails.cshtml",
+              "RelativeDocumentMoniker": "Views\\TvcLoai_San_Pham\\tvcDetails.cshtml",
+              "ToolTip": "C:\\devmaster.edu.vn\\UTCK64CNTT-LTW\\UTCK62CNTT2-LTW\\TvcDay09LabCF\\Views\\TvcLoai_San_Pham\\tvcDetails.cshtml",
+              "RelativeToolTip": "Views\\TvcLoai_San_Pham\\tvcDetails.cshtml",
+              "ViewState": "AQIAABQAAAAAAAAAAAAowD0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-17T04:14:42.635Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "tvcEdit.cshtml",
+              "DocumentMoniker": "C:\\devmaster.edu.vn\\UTCK64CNTT-LTW\\UTCK62CNTT2-LTW\\TvcDay09LabCF\\Views\\TvcLoai_San_Pham\\tvcEdit.cshtml",
+              "RelativeDocumentMoniker": "Views\\TvcLoai_San_Pham\\tvcEdit.cshtml",
+              "ToolTip": "C:\\devmaster.edu.vn\\UTCK64CNTT-LTW\\UTCK62CNTT2-LTW\\TvcDay09LabCF\\Views\\TvcLoai_San_Pham\\tvcEdit.cshtml",
+              "RelativeToolTip": "Views\\TvcLoai_San_Pham\\tvcEdit.cshtml",
+              "ViewState": "AQIAABsAAAAAAAAAAAAowD8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-17T04:11:58.27Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "tvcCreate.cshtml",
+              "DocumentMoniker": "C:\\devmaster.edu.vn\\UTCK64CNTT-LTW\\UTCK62CNTT2-LTW\\TvcDay09LabCF\\Views\\TvcLoai_San_Pham\\tvcCreate.cshtml",
+              "RelativeDocumentMoniker": "Views\\TvcLoai_San_Pham\\tvcCreate.cshtml",
+              "ToolTip": "C:\\devmaster.edu.vn\\UTCK64CNTT-LTW\\UTCK62CNTT2-LTW\\TvcDay09LabCF\\Views\\TvcLoai_San_Pham\\tvcCreate.cshtml",
+              "RelativeToolTip": "Views\\TvcLoai_San_Pham\\tvcCreate.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-17T04:04:41.602Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\devmaster.edu.vn\\UTCK64CNTT-LTW\\UTCK62CNTT2-LTW\\TvcDay09LabCF\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\devmaster.edu.vn\\UTCK64CNTT-LTW\\UTCK62CNTT2-LTW\\TvcDay09LabCF\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABgAAABWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-17T04:02:58.865Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "tvcIndex.cshtml",
+              "DocumentMoniker": "C:\\devmaster.edu.vn\\UTCK64CNTT-LTW\\UTCK62CNTT2-LTW\\TvcDay09LabCF\\Views\\TvcLoai_San_Pham\\tvcIndex.cshtml",
+              "RelativeDocumentMoniker": "Views\\TvcLoai_San_Pham\\tvcIndex.cshtml",
+              "ToolTip": "C:\\devmaster.edu.vn\\UTCK64CNTT-LTW\\UTCK62CNTT2-LTW\\TvcDay09LabCF\\Views\\TvcLoai_San_Pham\\tvcIndex.cshtml",
+              "RelativeToolTip": "Views\\TvcLoai_San_Pham\\tvcIndex.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAABKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-17T04:02:19.352Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "TvcLoai_San_PhamController.cs",
+              "DocumentMoniker": "C:\\devmaster.edu.vn\\UTCK64CNTT-LTW\\UTCK62CNTT2-LTW\\TvcDay09LabCF\\Controllers\\TvcLoai_San_PhamController.cs",
+              "RelativeDocumentMoniker": "Controllers\\TvcLoai_San_PhamController.cs",
+              "ToolTip": "C:\\devmaster.edu.vn\\UTCK64CNTT-LTW\\UTCK62CNTT2-LTW\\TvcDay09LabCF\\Controllers\\TvcLoai_San_PhamController.cs",
+              "RelativeToolTip": "Controllers\\TvcLoai_San_PhamController.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAADwvxsAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-17T03:59:15.357Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "20251017034326_V1.cs",
+              "DocumentMoniker": "C:\\devmaster.edu.vn\\UTCK64CNTT-LTW\\UTCK62CNTT2-LTW\\TvcDay09LabCF\\Migrations\\20251017034326_V1.cs",
+              "RelativeDocumentMoniker": "Migrations\\20251017034326_V1.cs",
+              "ToolTip": "C:\\devmaster.edu.vn\\UTCK64CNTT-LTW\\UTCK62CNTT2-LTW\\TvcDay09LabCF\\Migrations\\20251017034326_V1.cs",
+              "RelativeToolTip": "Migrations\\20251017034326_V1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-17T03:43:27.029Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\devmaster.edu.vn\\UTCK64CNTT-LTW\\UTCK62CNTT2-LTW\\TvcDay09LabCF\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\devmaster.edu.vn\\UTCK64CNTT-LTW\\UTCK62CNTT2-LTW\\TvcDay09LabCF\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAAABkAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-17T03:37:53.656Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "TvcDay09LabCFContext.cs",
+              "DocumentMoniker": "C:\\devmaster.edu.vn\\UTCK64CNTT-LTW\\UTCK62CNTT2-LTW\\TvcDay09LabCF\\Models\\TvcDay09LabCFContext.cs",
+              "RelativeDocumentMoniker": "Models\\TvcDay09LabCFContext.cs",
+              "ToolTip": "C:\\devmaster.edu.vn\\UTCK64CNTT-LTW\\UTCK62CNTT2-LTW\\TvcDay09LabCF\\Models\\TvcDay09LabCFContext.cs",
+              "RelativeToolTip": "Models\\TvcDay09LabCFContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-17T03:31:13.628Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\devmaster.edu.vn\\UTCK64CNTT-LTW\\UTCK62CNTT2-LTW\\TvcDay09LabCF\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\devmaster.edu.vn\\UTCK64CNTT-LTW\\UTCK62CNTT2-LTW\\TvcDay09LabCF\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-10-17T03:30:28.257Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "TvcSan_Pham.cs",
+              "DocumentMoniker": "C:\\devmaster.edu.vn\\UTCK64CNTT-LTW\\UTCK62CNTT2-LTW\\TvcDay09LabCF\\Models\\TvcSan_Pham.cs",
+              "RelativeDocumentMoniker": "Models\\TvcSan_Pham.cs",
+              "ToolTip": "C:\\devmaster.edu.vn\\UTCK64CNTT-LTW\\UTCK62CNTT2-LTW\\TvcDay09LabCF\\Models\\TvcSan_Pham.cs",
+              "RelativeToolTip": "Models\\TvcSan_Pham.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAA1wB8AAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-17T03:18:58.598Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "TvcLoai_San_Pham.cs",
+              "DocumentMoniker": "C:\\devmaster.edu.vn\\UTCK64CNTT-LTW\\UTCK62CNTT2-LTW\\TvcDay09LabCF\\Models\\TvcLoai_San_Pham.cs",
+              "RelativeDocumentMoniker": "Models\\TvcLoai_San_Pham.cs",
+              "ToolTip": "C:\\devmaster.edu.vn\\UTCK64CNTT-LTW\\UTCK62CNTT2-LTW\\TvcDay09LabCF\\Models\\TvcLoai_San_Pham.cs",
+              "RelativeToolTip": "Models\\TvcLoai_San_Pham.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAQwBgAAABgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-17T03:11:22.548Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
