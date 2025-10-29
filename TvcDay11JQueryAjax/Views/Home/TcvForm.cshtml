@@ -1,0 +1,73 @@
+﻿
+@{
+    ViewData["Title"] = "TcvForm";
+}
+
+<h1>TcvForm</h1>
+
+<div>
+    <label for="txtFrom"><i>From</i></label>
+    <input type="text" name="txtFrom" id="txtFrom" value="Chung Trịnh" />
+</div>
+<div>
+    <button> >> </button>
+</div>
+<div>
+    <label for ="txtTo">To</label>
+    <input type="text" name="txtTo" id="txtTo" value="anonymous...." />
+</div>
+
+<div>
+    <h1>Chọn màu chữ</h1>
+    <div class="btn">
+        <button data-value="red"> Đỏ </button> 
+        <button data-value="Blue"> Xanh </button>
+        <button data-value="Yellow"> Vàng </button>
+        <button data-value="purple"> Tím </button>
+        <button data-value="#000"> Ghi </button>
+    </div>
+    <p>
+        Công ty TNHH Công nghệ xanh Thành Châu là đơn vị chuyên nghiên cứu, 
+        phát triển và sản xuất các loại chế phẩm sinh học phục vụ nông nghiệp 
+        hữu cơ đặc biệt là phân bón vi sinh đa chức năng Thành Châu Azotobacterin, 
+        tư vấn giải pháp khoa học công nghệ phục vụ phát triển sản xuất nông nghiệp
+    </p>
+</div>
+
+@section TrinhVanChungScripts{
+    <script>
+        console.log("Haha");
+        $(document).ready(function () {
+            console.log("running....");
+
+            $('button').click(function () {
+               // lấy nội dung của lable from
+                // let lblFromContent = $('label[for="txtFrom"]').text(); // From
+                let lblFromContent = $('label[for="txtFrom"]').html(); // <i>From</i>
+                console.log("lblFromContent:", lblFromContent);
+                // Lấy nọi dung input
+                let valFrom = $('#txtFrom').val();
+
+                // Gán cho phần To
+                // $('label[for="txtTo"]').text(lblFromContent);
+                $('label[for="txtTo"]').html(lblFromContent);
+                $('#txtTo').val(valFrom);
+            })
+
+
+            $('.btn button').each(function(){
+                let valColor = $(this).attr('data-value'); // red, Blue, ..
+                
+                $(this).css({
+                    'border': '2px solid ' + valColor,
+                    'color': valColor,
+                    'width': '100px'
+                })
+                .click(function () {
+                    $('p').css('background', valColor);
+                })
+              
+            })
+        })
+    </script>
+}

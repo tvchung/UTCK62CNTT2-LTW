@@ -1,0 +1,43 @@
+﻿
+@{
+    ViewData["Title"] = "TvcLoadData";
+}
+
+<h1>TvcLoadData</h1>
+
+<div id="cate">
+    <ul>
+        <li></li>
+    </ul>
+</div>
+
+
+
+
+@section TrinhVanChungScripts {
+    <script>
+        $(document).ready(function () {
+            console.log("running....");
+
+
+            $.ajax({
+                url: '/data/categories.json',
+                method: 'GET',
+                dataType: 'json',
+                success: function (data) {
+                    console.log('Danh sách danh mục:', data);
+                    $('#cate ul').html('');
+                    element = "";
+                    $.each(data, function (index, item) {
+                         element += `<li> ${item.name} </li>`;
+                    })
+                    console.log(element);
+                    $('#cate ul ').html(element);
+                },
+                error: function () {
+                    console.error('Không thể tải dữ liệu categories.json');
+                }
+            });
+        })
+    </script>
+}

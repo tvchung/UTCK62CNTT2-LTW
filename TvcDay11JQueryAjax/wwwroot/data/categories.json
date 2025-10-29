@@ -1,0 +1,52 @@
+[
+  {
+    "id": 1,
+    "name": "Phân bón vi sinh",
+    "status": 1
+  },
+  {
+    "id": 2,
+    "name": "Chế phẩm sinh học",
+    "status": 1
+  },
+  {
+    "id": 3,
+    "name": "Thuốc bảo vệ thực vật sinh học",
+    "status": 0
+  },
+  {
+    "id": 4,
+    "name": "Giống cây trồng",
+    "status": 1
+  },
+  {
+    "id": 5,
+    "name": "Sản phẩm hữu cơ",
+    "status": 1
+  },
+  {
+    "id": 6,
+    "name": "Dụng cụ nông nghiệp",
+    "status": 1
+  },
+  {
+    "id": 7,
+    "name": "Tin tức nông nghiệp",
+    "status": 1
+  },
+  {
+    "id": 8,
+    "name": "Kỹ thuật trồng trọt",
+    "status": 0
+  },
+  {
+    "id": 9,
+    "name": "Công nghệ xanh",
+    "status": 1
+  },
+  {
+    "id": 10,
+    "name": "Khuyến mãi & sự kiện",
+    "status": 1
+  }
+]

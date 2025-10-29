@@ -1,0 +1,104 @@
+﻿
+@{
+    ViewData["Title"] = "TvcCart";
+}
+
+<h1>Giỏ hàng của bạn</h1>
+
+<table class="table table-bordered">
+    <thead>
+        <tr>
+            <th scope="col">#</th>
+            <th scope="col">Tên sản phẩm</th>
+            <th scope="col">Số lượng</th>
+            <th scope="col">Đơn giá</th>
+            <th scope="col">Thành tiền</th>
+            <th scope="col">Chức năng</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <th scope="row">1</th>
+            <td>IPhone 16 Pro Max</td>
+            <td class="w-25">
+                <input type="number" class="w-75" value="1" 
+                        tvc-data-price="1250"
+                        tvc-data-money="1250" />
+            </td>
+            <td>
+                <p> 1,250 đ</p>
+            </td>
+            <td>
+                <p class="thanh-tien"> 1,250 đ</p>
+            </td>
+            <td>
+                <button class="btn btn-danger btn-delete"> Xóa </button>
+            </td>
+        </tr>
+
+        <tr>
+            <th scope="row">2</th>
+            <td>IPhone 17 Pro Max</td>
+            <td class="w-25">
+                <input type="number" class="w-75" value="1"
+                       tvc-data-price="150"
+                       tvc-data-money="150" />
+            </td>
+            <td>
+                <p> 150 đ</p>
+            </td>
+            <td>
+                <p class="thanh-tien"> 150 đ</p>
+            </td>
+            <td>
+                <button class="btn btn-danger btn-delete"> Xóa </button>
+            </td>
+        </tr>
+    </tbody>
+    <tfoot>
+        <tr>
+            <th colspan="6">
+                <label>Tổng thành tiền:</label>
+                <span id="tongThanhTien">0,000 đ</span>
+            </th>
+        </tr>
+    </tfoot>
+</table>
+
+
+
+@section TrinhVanChungScripts {
+    <script>
+        $(document).ready(function () {
+            console.log("running....");
+            
+            $('input[type="number"]').change(function(){
+                // lấy số lượng 
+                let sluong = $(this).val();
+                // lấy đơn giá
+                let dgia = parseFloat($(this).attr('tvc-data-price')); 
+
+                // Tính thành tiền
+                let thanhTien = sluong * dgia;
+
+                // gán - lưu
+                $(this).attr('tvc-data-money', thanhTien);
+                $(this).parent().siblings().children('p.thanh-tien').text(thanhTien)
+
+                fn_tongTien();
+            })
+           
+            // Hàm tính tổng thành tiền 
+            const fn_tongTien = ()=>{
+                let t_tien = 0;
+                $('input[type="number"]').each(function () {
+                    let ttien = parseFloat($(this).attr('tvc-data-money'));
+                    console.log("ttien:", ttien);
+                    t_tien += ttien;
+                })
+
+                $('#tongThanhTien').text(t_tien);
+            }
+        })
+    </script>
+}

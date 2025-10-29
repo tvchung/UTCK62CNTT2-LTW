@@ -1,0 +1,42 @@
+﻿
+@{
+    ViewData["Title"] = "TvcLoadDataApi";
+}
+
+<h1>TvcLoadDataApi</h1>
+
+<div id="cate">
+    <ul>
+        <li></li>
+    </ul>
+</div>
+
+
+@section TrinhVanChungScripts {
+    <script>
+        $(document).ready(function () {
+            console.log("running....");
+
+
+            $.ajax({
+                url: '//apixm.devmaster.vn/api/Categories',
+                method: 'GET',
+                dataType: 'json',
+                success: function (data) {
+                    console.log('Danh sách danh mục:', data);
+                    $('#cate ul').html('');
+                    element = "";
+                    $.each(data, function (index, item) {
+                        element += `<li> ${item.title} </li>`;
+                    })
+                    console.log(element);
+                    $('#cate ul ').html(element);
+                },
+                error: function (ex) {
+                    console.error('Không thể tải dữ liệu ', ex);
+
+                }
+            });
+        })
+    </script>
+}
